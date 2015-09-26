@@ -1,0 +1,11 @@
+c:\users\usuario\documents\visual studio 2013\Projects\juego-gato\juego-gato\bin\Debug\juego-gato.exe.config
+c:\users\usuario\documents\visual studio 2013\Projects\juego-gato\juego-gato\bin\Debug\juego-gato.exe
+c:\users\usuario\documents\visual studio 2013\Projects\juego-gato\juego-gato\bin\Debug\juego-gato.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\juego-gato\juego-gato\bin\Debug\juego-gato.xml
+c:\users\usuario\documents\visual studio 2013\Projects\juego-gato\juego-gato\obj\Debug\juego_gato.Form1.resources
+c:\users\usuario\documents\visual studio 2013\Projects\juego-gato\juego-gato\obj\Debug\juego_gato.Resources.resources
+c:\users\usuario\documents\visual studio 2013\Projects\juego-gato\juego-gato\obj\Debug\juego-gato.vbproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2013\Projects\juego-gato\juego-gato\obj\Debug\juego-gato.exe
+c:\users\usuario\documents\visual studio 2013\Projects\juego-gato\juego-gato\obj\Debug\juego-gato.xml
+c:\users\usuario\documents\visual studio 2013\Projects\juego-gato\juego-gato\obj\Debug\juego-gato.pdb
+C:\Users\Usuario\documents\visual studio 2013\Projects\juego-gato\juego-gato\obj\Debug\juego-gato.vbprojResolveAssemblyReference.cache
